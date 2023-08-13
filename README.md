@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasOtw
 - 👀 I’m interested in programming, and i'm tech enthusiast
-- 🌱 I’m currently learning html/css/java and kotlin for android developpement !
+- 🌱 I’m currently learning html/css/java and kotlin for android developpement but i really like swift and Xcode IDE !
 - 💞️ I’m looking to collaborate on my personnal project
 
 
