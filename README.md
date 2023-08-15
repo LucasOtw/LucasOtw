@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @LucasOtw
 - 👀 I’m interested in programming, and i'm tech enthusiast
-- 🌱 I’m currently learning html/css/java and kotlin for android developpement but i really like swift and Xcode IDE !
-- 💞️ I’m looking to collaborate on my personnal project
+- 🌱 I’m currently learning Swift  and kotlin for android developpement. I already view dart with flutter framework.
+- 💞️ I’m looking to collaborate on my personnal project and i want to create my own application for iOS users. 
 
 
-<!---
-LucasOtw/LucasOtw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
