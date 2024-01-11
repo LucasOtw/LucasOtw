@@ -1,4 +1,4 @@
-<h1 align="center">Hello evryone, i'm Lucas, tech enthusiast 🤖</h1>
+<h1 align="center">Hello everyone, i'm Lucas, tech enthusiast 🤖</h1>
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1c1c1c?style=for-the-badge&logo=twitter)](https://twitter.com/_LuCaS_tS_)
