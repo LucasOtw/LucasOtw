@@ -1,5 +1,10 @@
 <h1 align="center">Hello everyone, i'm Lucas, tech enthusiast 🤖</h1>
 
+<p align="center">
+  <a href="https://portfolio1-lucasotw.vercel.app">🌎 Portfolio</a> &nbsp;
+  <a href="mailto:lucas_torres14@icloud.com">📧 Email </a>
+</p>
+
 
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1c1c1c?style=for-the-badge&logo=twitter)](https://twitter.com/_LuCaS_tS_)
 
