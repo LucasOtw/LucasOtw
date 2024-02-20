@@ -12,7 +12,7 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-[![Native](https://img.shields.io/badge/Native-02569B.svg?style=for-the-badge&logo=native&logoColor=white)
+![React-Native](https://img.shields.io/badge/Native-02569B.svg?style=for-the-badge&logo=native&logoColor=white)
 
 
 
