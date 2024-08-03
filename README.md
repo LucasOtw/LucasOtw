@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone, i'm Lucas, tech enthusiast 🤖</h1>
 
 <p align="center">
-  <a href="[https://portfolio1-lucasotw.vercel.app](https://lucasotw.vercel.app/)">🌎 Portfolio</a> &nbsp;
+  <a href="https://portfolio1-lucasotw.vercel.app">🌎 Portfolio</a> &nbsp;
   <a href="mailto:lucas_torres14@icloud.com">📧 Email </a>
 </p>
 
