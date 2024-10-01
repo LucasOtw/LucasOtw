@@ -56,10 +56,13 @@
           <mxGeometry x="140" y="1060" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T717MSUHJymw_E_uzrL_-33" value="Interventions" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="480" y="780" width="120" height="80" as="geometry" />
+          <mxGeometry x="460" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T717MSUHJymw_E_uzrL_-36" value="Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="140" y="800" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T717MSUHJymw_E_uzrL_-37" value="Suivi déroulement" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
