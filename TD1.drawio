@@ -52,13 +52,16 @@
         <mxCell id="T717MSUHJymw_E_uzrL_-35" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="T717MSUHJymw_E_uzrL_-31" target="T717MSUHJymw_E_uzrL_-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T717MSUHJymw_E_uzrL_-31" value="Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="T717MSUHJymw_E_uzrL_-39" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="T717MSUHJymw_E_uzrL_-31" target="T717MSUHJymw_E_uzrL_-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T717MSUHJymw_E_uzrL_-31" value="Agent d&#39;entretien" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="140" y="1060" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T717MSUHJymw_E_uzrL_-33" value="Interventions" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="420" y="780" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T717MSUHJymw_E_uzrL_-36" value="Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="T717MSUHJymw_E_uzrL_-36" value="Agent technique" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="140" y="800" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T717MSUHJymw_E_uzrL_-37" value="Suivi déroulement" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
