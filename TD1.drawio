@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="Tft7WOYaL25BBJH_i-46">
-    <mxGraphModel dx="641" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,7 @@
           <mxGeometry x="970" y="78" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-3" value="Exercice 3 :&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="750" width="90" height="30" as="geometry" />
+          <mxGeometry x="10" y="740" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="820" width="860" height="760" as="geometry" />
@@ -125,6 +125,22 @@
         </mxCell>
         <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.094;entryY=0.737;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o5LFxPD4Mw91WRDQ8CJ6-9" target="o5LFxPD4Mw91WRDQ8CJ6-40">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o5LFxPD4Mw91WRDQ8CJ6-52" target="o5LFxPD4Mw91WRDQ8CJ6-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o5LFxPD4Mw91WRDQ8CJ6-52" target="o5LFxPD4Mw91WRDQ8CJ6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-52" value="Employe de banque" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-54" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=blockThin;startFill=1;strokeWidth=21;elbow=vertical;" edge="1" parent="1" source="o5LFxPD4Mw91WRDQ8CJ6-5" target="o5LFxPD4Mw91WRDQ8CJ6-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
