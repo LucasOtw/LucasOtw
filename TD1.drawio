@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="Tft7WOYaL25BBJH_i-46">
-    <mxGraphModel dx="891" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="418" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
         <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="o5LFxPD4Mw91WRDQ8CJ6-5" target="o5LFxPD4Mw91WRDQ8CJ6-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-5" value="client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-5" value="&lt;font color=&quot;#000000&quot;&gt;client&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="100" y="1120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="o5LFxPD4Mw91WRDQ8CJ6-7" target="o5LFxPD4Mw91WRDQ8CJ6-40">
@@ -135,11 +135,12 @@
         <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="o5LFxPD4Mw91WRDQ8CJ6-52" target="o5LFxPD4Mw91WRDQ8CJ6-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-52" value="Employé de banque" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-52" value="&lt;font color=&quot;#000000&quot;&gt;Employé de banque&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1110" y="1170" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-54" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=blockThin;startFill=1;strokeWidth=21;elbow=vertical;endArrow=none;endFill=0;shadow=1;flowAnimation=0;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="o5LFxPD4Mw91WRDQ8CJ6-5">
+        <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-54" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=blockThin;startFill=1;strokeWidth=21;elbow=vertical;endArrow=none;endFill=0;shadow=1;flowAnimation=0;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="1110" as="sourcePoint" />
             <mxPoint x="1130" y="1160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="620" y="680" />
