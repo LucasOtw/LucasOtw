@@ -79,7 +79,7 @@
         <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-3" value="Exercice 3 :&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="750" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-4" value="DAB&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-4" value="DAB Exo3&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="840" width="430" height="390" as="geometry" />
         </mxCell>
         <mxCell id="o5LFxPD4Mw91WRDQ8CJ6-5" value="client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
