@@ -1,36 +1,31 @@
-name: Update profile art
+<div align="center">
 
-# Rebuilds the heatmap, the neofetch card and the ASCII portrait from public data.
-# Daily cron + on every push to main + manual trigger (Actions tab → Run workflow).
-on:
-  schedule:
-    - cron: "23 5 * * *"   # ~07:23 Paris time
-  workflow_dispatch: {}
-  push:
-    branches: [main]
-    paths-ignore: ["*.svg", "data/**"]
+<!-- Everything below is animated SVG regenerated daily by
+     .github/workflows/update-profile-art.yml — edit profile.json, not the SVGs. -->
 
-permissions:
-  contents: write
+<h3><code>lucas@github ~ $ ./contributions.sh</code></h3>
 
-jobs:
-  render:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install -r scripts/requirements.txt
-      - name: Scrape public contribution calendar (no token)
-        run: python scripts/fetch_contributions.py
-      - name: Render SVGs
-        working-directory: scripts
-        run: |
-          python render_heatmap.py
-          python render_card.py
-          python make_ascii_portrait.py
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: refresh profile art [skip ci]"
-          file_pattern: "data/contributions.json *.svg"
+<img src="./contrib-heatmap.svg" width="860" alt="Lucas's GitHub contribution graph, refreshed daily" />
+
+<br><br>
+
+<h3><code>lucas@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./portrait.svg" width="420" alt="Lucas Torres — ASCII portrait" /></td>
+<td valign="top"><img src="./card.svg" width="420" alt="neofetch-style card: apprentice developer at Tom Explore, Master COdUX student, Studio Granit co-founder, with live GitHub stats" /></td>
+</tr>
+</table>
+
+<br><br>
+
+<h3><code>lucas@github ~ $ ./links.sh</code></h3>
+
+<p><b>iOS & Android developer · UX designer · Brittany, FR</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-lucas--torres.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://lucas-torres.com)
+[![Studio Granit](https://img.shields.io/badge/Studio_Granit-studio--granit.fr-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studio-granit.fr)
+[![Tom Explore](https://img.shields.io/badge/Tom_Explore-travel_app-39d353?style=for-the-badge&logo=apple&logoColor=black)](https://apps.apple.com/search?term=tom%20explore)
+
+</div>

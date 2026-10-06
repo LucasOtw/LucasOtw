@@ -1,0 +1,17 @@
+{
+  "username": "LucasOtw",
+  "prompt_user": "lucas",
+  "card": {
+    "title": "lucas@github",
+    "info": [
+      ["OS", "macOS · iOS · Android"],
+      ["Host", "Tom Explore — Vannes, FR"],
+      ["Role", "Apprentice developer · UX designer"],
+      ["Studies", "Master COdUX — Université de Limoges"],
+      ["Studio", "Studio Granit — web design, Brittany"],
+      ["Stack", "Swift · SwiftUI · Kotlin · Flutter"],
+      ["Tools", "Xcode · VS Code · Figma · PostHog"],
+      ["Web", "lucas-torres.com"]
+    ]
+  }
+}
