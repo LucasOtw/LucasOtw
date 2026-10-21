@@ -1,10 +1,10 @@
 {
  "username": "LucasOtw",
- "updated": "2026-10-20",
- "total": 153,
- "active_days": 33,
- "current_streak": 14,
- "longest_streak": 14,
+ "updated": "2026-10-21",
+ "total": 154,
+ "active_days": 34,
+ "current_streak": 15,
+ "longest_streak": 15,
  "best_day": {
   "date": "2026-03-16",
   "count": 35,
@@ -1843,6 +1843,11 @@
   },
   {
    "date": "2026-10-20",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-10-21",
    "count": 0,
    "level": 0
   }
