@@ -1,9 +1,9 @@
 {
  "username": "LucasOtw",
- "updated": "2026-11-21",
- "total": 183,
- "active_days": 63,
- "current_streak": 4,
+ "updated": "2026-11-22",
+ "total": 184,
+ "active_days": 64,
+ "current_streak": 5,
  "longest_streak": 33,
  "best_day": {
   "date": "2026-03-16",
@@ -11,41 +11,6 @@
   "level": 4
  },
  "days": [
-  {
-   "date": "2025-11-16",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-17",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-18",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-19",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-20",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-21",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-22",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-11-23",
    "count": 0,
@@ -1863,6 +1828,11 @@
   },
   {
    "date": "2026-11-21",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-11-22",
    "count": 0,
    "level": 0
   }
